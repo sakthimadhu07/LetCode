@@ -14,6 +14,7 @@ public class Launchurl {
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.google.co.in/");
+		System.out.println("LEtCode");
 	}
 
 }
