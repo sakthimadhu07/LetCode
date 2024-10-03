@@ -16,6 +16,8 @@ public class Launchurl {
 		driver.get("https://www.google.co.in/");
 		System.out.println("LEtCode");
 		System.out.println("LEtCode");
+		System.out.println("LEtCode - Remote");
+		System.out.println("LEtCode - Remote");
 	}
 
 }
