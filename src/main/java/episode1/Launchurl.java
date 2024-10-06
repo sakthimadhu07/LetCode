@@ -13,16 +13,6 @@ public class Launchurl {
 		
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://www.google.co.in/");
-		System.out.println("LEtCode");
-		System.out.println("LEtCode");
-<<<<<<< Updated upstream
-		System.out.println("LEtCode - Remote");
-		System.out.println("LEtCode - Remote");
-=======
-		System.out.println("LEtCode - Machine");
-		System.out.println("LEtCode - Machine");
->>>>>>> Stashed changes
 	}
 
 }
