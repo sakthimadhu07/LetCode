@@ -15,6 +15,8 @@ public class Launchurl {
 		ChromeDriver driver = new ChromeDriver();
 		//sakthimadhu
 		System.out.println("machine");
+		System.out.println("machine");
+		System.out.println("machine");
 	}
 
 }
