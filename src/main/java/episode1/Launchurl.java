@@ -10,13 +10,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Launchurl {
 	
 	public static void main(String[] args) {
-		
-		WebDriverManager.chromedriver().setup();
-		ChromeDriver driver = new ChromeDriver();
-		//sakthimadhu
-		System.out.println("machine");
-		System.out.println("machine");
-		System.out.println("machine");
+		System.out.println("Machine to Remote");
 	}
-
 }
