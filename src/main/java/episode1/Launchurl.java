@@ -13,5 +13,7 @@ public class Launchurl {
 		System.out.println("Machine to Remote");
 		System.out.println("Machine to Remote");
 		System.out.println("Machine to Remote");
+		System.out.println("Remote");
+		System.out.println("Remote");
 	}
 }
